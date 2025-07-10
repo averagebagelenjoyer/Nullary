@@ -7,7 +7,7 @@ They say it is Undefined since the first place value is zero, and the base is ze
 
 $0 \cdot 0 = Undefined$
 
-However, I believe I have found a way to still do mathematics... without numbers. I am calling this `nullary`.
+However, I believe I have found a way to still do mathematics... without numbers. I am calling this `nullary`. Math, without $ℝ$ numbers.
 
 ## Displaying Numbers
 $\aleph_0$
