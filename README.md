@@ -7,7 +7,7 @@ $0 \cdot 0 = Undefined$
 
 However, it is actually possibly to display more numbers.
 
-# Displaying Numbers
+## Displaying Numbers
 $\aleph_0$
 
 <br>
@@ -20,7 +20,7 @@ $i \cdot i \cdot i \cdot i = 1$
 
 $iiii = 1$
 
-$i \div i + i \cdot i = 1$
+$i \div i + i \cdot i = 0$
 
 <br>
 
@@ -28,17 +28,17 @@ Operator: $\lfloor x \rfloor$
 
 $\lfloor \phi \rfloor = 1$
 
-# Maximum Variable Usage
+## Maximum Variable Usage
 Rule: $x - x = 0$
 
 Rule: $x^{0} = 1$
 
 $x^{x-x} = 1$
 
-# Shortest Path To The Hundredth Prime
+## Shortest Path To The Hundredth Prime
 541 is the hundredth prime number.
 
-# Recreating The Digits
+## Recreating The Digits
 Anything can be a variable, even things we usually think of as numbers.
 
 Use your method of choice to get one.
@@ -101,15 +101,15 @@ Even weird stuff like variables mid "number" works!
 
 $31 \pi 83=226.195_{10}$
 
-# Note
+## Note
 Base zero is different than all other bases; but not for the reason most think. It's not an invalid base, but instead it's a completely different numerical system.
 
-## Special Operators
+### Special Operators
 $x \cdot y$ is fully optional, and should be shortened to $xy$.
 
 . is the nullary point and almost nothing.
 
-# Decimals
+## Decimals
 Since the nullary point cannot be used, we are forced to rely solely on division.
 
 However, using multi-character variables we still have some generally normal looking variables.
