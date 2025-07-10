@@ -126,7 +126,7 @@ $3+,5=3.5_{10}$
 
 Formally decimal variables start with a `,`.
 
-# Convert Decimal To Nullary
+## Convert Decimal To Nullary
 
 $$
 f(x_{10}) =
@@ -146,7 +146,7 @@ $$
 
 Whether or not this is mathematically accurate, I have no idea. And it is 
 
-# Useful Variables
+## Useful Variables
 $\aleph_0$
 
 $\phi = 1.618$
