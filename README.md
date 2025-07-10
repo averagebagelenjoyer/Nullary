@@ -1,11 +1,13 @@
 # Nullary
+Nullary is the name of base zero.
+
 Base zero has no numbers, so some believe it can only convey Undefined values.
 
 They say it is Undefined since the first place value is zero, and the base is zero.
 
 $0 \cdot 0 = Undefined$
 
-However, it is actually possibly to display more numbers.
+However, I believe I have found a way to still do mathematics... without numbers. I am calling this `nullary`.
 
 ## Displaying Numbers
 $\aleph_0$
