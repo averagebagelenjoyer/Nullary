@@ -6,52 +6,42 @@ They say it is Undefined since the first place value is zero, and the base is ze
 
 However, it is actually possibly to display more numbers.
 
-Displaying Numbers
-ℵ₀
+# Displaying Numbers
+$\aleph_0$
 
-Rule: x÷x=1
-Rule: √-1=i
+Rule: $\frac{x}{x}=1$
 
-i×i×i×i=1
-i÷i+i×i=0
+Rule: $\sqrt{-1}=i$
 
+$$
+i \cdot i \cdot i \cdot i=1
+$$
+
+$$
 iiii=1
-i÷i+ii=0
+$$
 
-Operator: ⌊x⌋
-⌊φ⌋=1
+$$
+i \div i + i \cdot i = 1
+$$
 
-Maximum Variable Usage
-Rule: x-x=0
-Rule: x⁰=1
+Operator: $\lfloor x \rfloor$
+
+$$
+\lfloor \phi \rfloor = 1
+$$
+
+# Maximum Variable Usage
+Rule: $x-x=0$
+
+Rule: $x^{0}=1$
+
 x↑(x-x)=1
 
-Shortest Path To The Tenth Prime
-1, 2, 3, 5, 7, 11, 13, 17, 19, 23.
-23 is the tenth prime number.
+# Shortest Path To The Hundredth Prime
+541 is the hundredth prime number.
 
-v1:
-(x/x+x/x+x/x+x/x)!-x/x
-
-v2:
-x/x=y
-(y+y+y+y)!-y
-
-v3:
-⌊ππe-π⌋
-
-v4:
-⌈ππ!⌉
-
-v4.5:
-⌊πee⌋
-
-v5:
-(Best if you use a raised e)
-
-⌈π^e⌉
-
-Recreating The Digits
+# Recreating The Digits
 Anything can be a variable, even things we usually think of as numbers.
 
 Use your method of choice to get one.
@@ -79,14 +69,14 @@ Even weird stuff like variables mid "number" works!
 
 31π83=226.195_10
 
-Note
+# Note
 Base zero is different than all other bases; but not for the reason most think. It's not an invalid base, but instead it's a completely different numerical system.
 
-Special Operators
+## Special Operators
 x×y is fully optional, and should be shortened to xy.
 . is the nullary point and almost nothing.
 
-Decimals
+# Decimals
 Since the nullary point cannot be used, we are forced to rely solely on division.
 
 However, using multi-character variables we still have some generally normal looking variables.
