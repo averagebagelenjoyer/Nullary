@@ -10,11 +10,7 @@ $0^{0} = Undefined$
 However, I believe I have found a way to still do mathematics... without numbers. I am calling this `nullary`. Math, without $ℝ$ numbers.
 
 ## Displaying Numbers
-$\aleph_0$
-
-<br>
-
-Rule: $\frac{x}{x} = 1$
+Rule: $\frac{x}{x} = 1$ (For non-zero $x$)
 
 Rule: $\sqrt{-1} = i$
 
@@ -109,7 +105,9 @@ Base zero is different than all other bases; but not for the reason most think. 
 ### Special Operators
 $x \cdot y$ is fully optional, and should be shortened to $xy$.
 
-. is the nullary point and almost nothing.
+`.` is the nullary point and does almost nothing. Technically it can be used as a number but it is equal to zero, for example:
+
+$\pi + . = \pi$
 
 ## Decimals
 Since the nullary point cannot be used, we are forced to rely solely on division.
@@ -126,7 +124,41 @@ $25,5,5=2.5_{10}$
 
 $3+,5=3.5_{10}$
 
-# The One Use Of The Nullary Point
-The nullary point can only be once per number and every after the point is ignored.
+Formally decimal variables start with a `,`.
 
-$57.951685 \pi e312=57$
+# Convert Decimal To Nullary
+
+$$
+f(x_{10}) =
+\sum_{n=1}^{\frac{x_{10}}{\lfloor e \rfloor}} \lceil \phi \rceil
++
+\begin{cases}
+  \lfloor \phi \rfloor,   & \text{if } x >    i \div i + i \cdot i \\
+  \lfloor \gamma \rfloor, & \text{if } x \leq \lfloor \ln(2) \rfloor
+\end{cases}
+$$
+
+For example to set variable `y` to `512,631`, you would do:
+
+$$
+y = f(512631_{10})
+$$
+
+Whether or not this is mathematically accurate, I have no idea. And it is 
+
+# Useful Variables
+$\aleph_0$
+
+$\phi = 1.618$
+
+$\pi = 3.142$
+
+$e = 2.718$
+
+$\tau = 6.283$
+
+$\gamma = 0.577$
+
+$G = 0.916$ (Catalan's Constant)
+
+$K = 2.685$ (Khinchin's Constant)
