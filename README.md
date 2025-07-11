@@ -1,4 +1,6 @@
 # Nullary
+> *Note: This document uses [KaTeX](https://katex.org/#demo) a lot.*
+
 Nullary is the name of base zero.
 
 Base zero has no numbers, so some believe it can only convey Undefined values.
@@ -149,16 +151,16 @@ Whether or not this is mathematically accurate, I have no idea. And it is
 ## Useful Variables
 $\aleph_0$
 
-$\phi = 1.618$
+$\phi \approx 1.618$
 
-$\pi = 3.142$
+$\pi \approx 3.142$
 
-$e = 2.718$
+$e \approx 2.718$
 
-$\tau = 6.283$
+$\tau \approx 6.283$
 
-$\gamma = 0.577$
+$\gamma \approx 0.577$
 
-$G = 0.916$ (Catalan's Constant)
+$G \approx 0.916$ (Catalan's Constant)
 
-$K = 2.685$ (Khinchin's Constant)
+$K \approx 2.685$ (Khinchin's Constant)
