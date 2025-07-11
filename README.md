@@ -3,7 +3,7 @@
 
 Nullary is the name of base zero.
 
-Base zero has no numbers, so some believe it can only convey Undefined values.
+Base zero has no numbers, so some believe it can only convey `Undefined` values.
 
 They say it is Undefined since the first place value is zero, and the base is zero.
 
