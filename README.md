@@ -148,7 +148,7 @@ $$
 y = f(512631_{10})
 $$
 
-Whether or not this is mathematically accurate, I have no idea. And it is 
+ah yes another thing i have no clue why i wrote. uhm... what is the point of this??
 
 ## Useful Variables
 $\aleph_0$
