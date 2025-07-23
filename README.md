@@ -38,12 +38,14 @@ $x^{x-x} = 1$
 ## Shortest Path To The Hundredth Prime
 541 is the hundredth prime number.
 
+uhhh yeah i was gonna write something here... then i didnt
+
 ## Recreating The Digits
 Anything can be a variable, even things we usually think of as numbers.
 
 Use your method of choice to get one.
 
-$x_{10}$ denotes that x is in base ten.
+$x_{10}$ denotes that $x$ is in base ten.
 
 <br>
 
